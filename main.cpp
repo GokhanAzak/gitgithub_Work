@@ -9,5 +9,8 @@ int main() {
 	//ilk commit sonrası  yazılan ilk blok
 
 
+
+
      //branc açıldı logaritama eklendi
+	// repoya atıldı bracnı eklenip  tekradan depoya commitlenecek
 }
