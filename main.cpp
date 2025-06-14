@@ -10,4 +10,7 @@ int main() {
 
 
      //branc açıldı logaritama eklendi
+
+
+		//isue ekledi branc açıldı deneme 4
 }
